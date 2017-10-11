@@ -14,6 +14,15 @@ More on max pooling here ::[Max Pooling](http://cs231n.github.io/convolutional-n
 The original paper on unpooling :: [Unpooling](https://arxiv.org/pdf/1311.2901v3.pdf)
 
 
+Some more resources one may find useful::
+
+1. [Broadcasting in Numpy](http://eli.thegreenplace.net/2015/broadcasting-arrays-in-numpy/)
+2. [Scatter in tensorflow](https://www.tensorflow.org/api_docs/python/tf/scatter_nd_update)
+3. [Cocatanation in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/concat)
+3. [Max Pool with Arg Max in Tensorflow](https://www.tensorflow.org/api_docs/python/tf/nn/max_pool_with_argmax)
+
+
+
 **Example Usage ::**
 
 1. Declare a tensor 
