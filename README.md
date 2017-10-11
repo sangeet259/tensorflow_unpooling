@@ -17,12 +17,20 @@ unpooled_tensor=unpool_with_with_argmax(pooled_tensor,max_indices)
 ```
 4. It's done !
 
-Lets have a look at it
+**Lets have a look at it**
+
 1. Original Tensor
-![alt text](./images/original_tensor.png "Original Tensor")
-2.Pooled Tensor
+
+![alt text](./images/original_tesnsor.png "Original Tensor")
+
+2. Pooled Tensor
+
 ![alt text](./images/pooled_tensor.png "Pooled Tensor")
+
 3. Max Indices
+
 ![alt text](./images/max_indices.png "Max Indices")
-4. Unpooled Tensor
-![alt text](./images/unpooled_indices.png "Unpooled Tensor")
+
+4. And finally the **Unpooled Tensor**
+
+![alt text](./images/unpooled_tensor.png "Unpooled Tensor")
