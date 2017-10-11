@@ -1,10 +1,12 @@
-# tensorflow_unpooling
+# Unpooling in Tensorflow
 Unpooling of tensor that has been pooled using max_pool_with_argmax
 
-What is unpooling ?
-It's a tensor operation which tries to regenerate the tensor which has been maxpooled .
+### What is unpooling ?
 
-This figure here illustrates it perfectly 
+#### It's a tensor operation which tries to regenerate the tensor which has been maxpooled .
+
+This figure below illustrates it perfectly 
+
 ![alt text](./images/unpooling.png "Unpooling")
 
 More on max pooling here ::[Max Pooling](http://cs231n.github.io/convolutional-networks/#pool)
