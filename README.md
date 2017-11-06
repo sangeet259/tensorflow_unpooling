@@ -1,3 +1,6 @@
+
+**Credits** :: [Tensorflow's Issue No 2169](https://github.com/tensorflow/tensorflow/issues/2169) and all the people invloved there.
+
 # Unpooling in Tensorflow
 Unpooling of tensor that has been pooled using max_pool_with_argmax
 
